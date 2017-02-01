@@ -28,5 +28,9 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 *.xml
 *.iml
+=======
+*.xml
+>>>>>>> 81d0b133411602a4a2f12d264d6bc2beaea31c2c
