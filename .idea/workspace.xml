@@ -34,8 +34,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa6c5c29-d84a-4e47-bb61-a768902a18f2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/AP-Project.iml" afterPath="$PROJECT_DIR$/.idea/AP-Project.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AP-Project.iws" />
@@ -370,12 +368,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485882849644</updated>
       <workItem from="1485882850960" duration="139000" />
-      <workItem from="1485943673189" duration="108000" />
+      <workItem from="1485943673189" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="247000" />
+    <option name="totallyTimeSpent" value="324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
